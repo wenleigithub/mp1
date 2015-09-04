@@ -4,6 +4,9 @@ public class Test3 {
  private boolean b = false;
  private boolean a = true;
  private boolean c = true;
+
  private boolean d = false;
+ private boolean e = true;
+
  
 }
