@@ -91,7 +91,7 @@
 		<collectiontype code="SerialNumberGatekeeperMapList"
 			elementtype="DeliveryMode" autocreate="true" generate="true" type="list" />
 		<!-- add by Jerry Lin for NA-544 end -->
-
+<!-- add by Jerry Lin for NA-544 end -->
 		<!-- add by Juan Munoz for NA-559 start -->
 		<collectiontype code="productCountrySalesOrg"
 			elementtype="java.lang.String" autocreate="true" generate="true"
