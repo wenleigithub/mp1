@@ -84,7 +84,7 @@
 			type="list" />
 		<!-- add by Dylan Zhu for NA-527 end -->
 <!-- add by Dylan Zhu for NA-527 end -->
-
+<!-- add by Dylan Zhu for NA-527 end -->
 		<!-- add by Aaron Wang for NEMO-527 start -->
 		<collectiontype code="customerVisitRecordList"
 			elementtype="Company" autocreate="true" generate="true" type="set" />
