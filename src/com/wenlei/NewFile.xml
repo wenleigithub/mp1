@@ -109,7 +109,7 @@
 			elementtype="returnRequestReason" autocreate="true" generate="true"
 			type="list" />
 		<!-- / NA-371 -->
-
+<!-- / NA-371 -->
 		<!-- add by Shaobo Li for NA-536 start -->
 		<collectiontype code="PayerIDList" elementtype="java.lang.String"
 			autocreate="true" generate="true" type="list" />
