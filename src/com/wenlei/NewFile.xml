@@ -54,7 +54,7 @@
 		<collectiontype code="MaintainAlertMessagesList"
 			elementtype="MaintainAlertMessages" autocreate="true" type="list" />
 		<!-- add by Yuxiao Wang for NA-687 end -->
-
+<!-- ux-52 hao sun -->
 		<!-- ux-52 hao sun -->
 		<collectiontype code="GalleryPhotoContainerList"
 			elementtype="GalleryPhotoContainer" autocreate="true" generate="true"
