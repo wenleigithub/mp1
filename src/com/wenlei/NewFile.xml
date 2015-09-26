@@ -63,7 +63,7 @@
 			elementtype="GalleryVideoContainer" autocreate="true" generate="true"
 			type="list" />
 		<!-- ux-52 hao sun -->
-
+<!-- ux-52 hao sun -->
 
 		<!-- add by Dylan Zhu for NA-527 start -->
 		<collectiontype code="PasscodeGatekeeperList"
