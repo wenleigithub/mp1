@@ -124,7 +124,7 @@
 			elementtype="KeywordSuggestionRule" autocreate="true" generate="true"
 			type="list" />
 		<!-- add by Sohrab Farzaneh for NA-594 end -->
-
+<!-- add by Sohrab Farzaneh for NA-594 end -->
 		<!-- add by Mingyi for NA-604 start -->
 		<collectiontype code="SortOptionCollection"
 			elementtype="SortOption" autocreate="true" generate="true" type="list" />
