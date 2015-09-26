@@ -8,7 +8,7 @@
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="items.xsd">
 <!-- add by Jerry Lin for NA-544 end -->
-<!-- add by Jerry Lin for NA-544 startjhgjkgkgjhg -->
+<!-- add by Jerry Lin for dasdfasd 4 startjhgjkgkgjhg -->
 	<collectiontypes>
 		<collectiontype code="GenderList" elementtype="Gender"
 			autocreate="true" generate="true" type="list" />
