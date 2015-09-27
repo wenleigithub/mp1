@@ -5,5 +5,5 @@ public class Test2 {
    private int i = 0;
    private int j= 0;
    private int k= 0;
-   private int M= 0;
+   private int L= 0;
 }
